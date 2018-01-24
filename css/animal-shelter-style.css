@@ -28,6 +28,7 @@ div img {
   width: 250px;
   border: 2px solid black;
   align-items: center;
+  padding: 2px;
 }
 
 @media screen and (max-width: 480px) and (min-width: 300px) {
